@@ -56983,7 +56983,7 @@ H(a,b){var s=null,r=t.w,q=b.O(r).f.a.a<=500?2.5:3,p=A.anQ(s,s,new A.nh("assets/i
 if(b.O(r).f.a.a<=700)m.push(B.EW)
 m.push(new A.Dk(s))
 m.push(A.eb(s,20,s))
-if(!(b.O(r).f.a.a<=700))m.push(new A.BH(new A.Sl(),s,s,s,A.adj(s,s,B.bA,s,s,s,s,s,s,s,new A.b2(40,20,40,20),s,s,s,s,s,s,s),B.o,s,!1,A.cE("EXPLORE NOW",s,s,A.f4(s,s,B.ee,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s))
+if(!(b.O(r).f.a.a<=700))m.push(new A.BH(new A.Sl(),s,s,s,A.adj(s,s,B.bA,s,s,s,s,s,s,s,new A.b2(40,20,40,20),s,s,s,s,s,s,s),B.o,s,!1,A.cE("SEE MY RESUME",s,s,A.f4(s,s,B.ee,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s))
 return new A.ng(q,A.pz(B.bs,A.a([new A.tL(p,B.kh,s),o,new A.dk(B.xQ,A.fm(m,B.aD,B.Cg),s)],n),B.ti),s)}}
 A.Sl.prototype={
 $0(){},
